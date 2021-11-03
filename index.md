@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. Always new
+4. Happy to learn with this!
 
 **Bold** and _Italic_ and `Code` text
 
